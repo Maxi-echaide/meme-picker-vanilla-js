@@ -4,7 +4,8 @@ Quick start:
 $ npm install
 $ npm start
 ````
+Vanilla js meme picker
 
 Live on netlify:
 
-hilarious-meme-picker.netlify.app
+https://hilarious-meme-picker.netlify.app
